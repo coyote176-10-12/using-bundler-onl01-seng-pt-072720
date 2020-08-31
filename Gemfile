@@ -15,4 +15,4 @@ end
 
 #gem "rspec", group: :test
 
-gem "rspec" :group =>[:test]
+gem "rspec" :groups =>[:test]
