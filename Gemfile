@@ -14,5 +14,3 @@ end
 #end
 
 gem rspec, group: :test
-
-end
